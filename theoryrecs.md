@@ -1,5 +1,6 @@
 # theory, meta, and analysis recommendations
 [back](index)
+
 ***
 
 ## Ralsei Inferno Theory
@@ -17,6 +18,7 @@
 **Links:**
 - [Deltarune Unofficial Message Boards Thread](https://deltaruneboards.net/index.php?showtopic=659)
 - [Tumblr version](https://mrjocrafter.tumblr.com/post/804659090871681024/the-ralsei-inferno-theory)
+
 ***
 
 ## Krissociation Meta
@@ -40,6 +42,7 @@
 - [Tumblr posts tagged #krissociation meta by mrjocrafter, chronological](https://mrjocrafter.tumblr.com/tagged/krissociation%20meta/chrono/)
 - [Tumblr posts tagged #krissociation meta by abyssalmemorial, chronological](https://abyssalmemorial.tumblr.com/tagged/krissociation%20meta/chrono/)
 - [Deltarune Unofficial Message Boards Thread](https://deltaruneboards.net/index.php?showtopic=75)
+
 ***
 
 ## the-wertsearch
@@ -55,6 +58,7 @@
 **Notes:** Extremely good analysis of Homestuck from a first-time reader. If you haven't reread in a long time, I do recommend reading this as well. Still on early Act 6.
 
 **Links:** [the-wertsearch on Tumblr](ttps://thewertsearch.tumblr.com/tagged/full%20liveblog/chrono/)
+
 ***
 
 ## Toby Fox's Tumblr Tunes
@@ -72,3 +76,5 @@
 **Links:**
 - [Deltarune Unofficial Message Boards thread](https://deltaruneboards.net/index.php?showtopic=729)
 - [Tumblr version](https://mrjocrafter.tumblr.com/post/804482451160334336/toby-foxs-tumblr-tunes)
+
+***

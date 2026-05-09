@@ -1,5 +1,6 @@
 # media recommendations
 [back](index)
+
 ***
 
 ## Homestuck
@@ -14,6 +15,7 @@
 **Recommender's note:** Do I really have to explain this one? I'm just telling you, you gotta read Homestuck.
 
 **Links:** [Homestuck.com](https://homestuck.com)
+
 ***
 
 ## Worm
@@ -28,6 +30,7 @@
 **Recommender's note:** Worm is a science fantasy web serial following teenage supervillain/hero Taylor Hebert, a girl with the power to control insects. Extremely long, heavy, and tonally dark, but absolutely worth the read.
 
 **Links:** [Worm on WordPress](https://parahumans.wordpress.com/)
+
 ***
 
 ## Psycholonials
@@ -45,4 +48,5 @@
 **Links:**
 - [Psycholonials.com](https://www.psycholonials.com/)
 - [Steam store page](https://store.steampowered.com/app/1529810/Psycholonials/)
+
 ***

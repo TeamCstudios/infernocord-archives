@@ -1,8 +1,10 @@
 # fanfiction recommendations
 [back](index)
+
 ***
 
 # out-of-house fanfiction reccomendations
+
 ***
 
 ## War Machines
@@ -24,6 +26,7 @@
 **Recommender's note:** This fic healed the wounds Volume 8 inflicted on me, and then inflicted them right back in later chapters. A fic I can comfortably call better than canon so far, and RWBY is one show I rarely make that judgement with.
 
 **Links:** [AO3](https://archiveofourown.org/works/54312247/)
+
 ***
 
 ## The Erosion of the Spirit
@@ -45,6 +48,7 @@
 **Recommender's note:** What if Star Wars was good? This fic sort of answers (part of) that question for me. Expanded materials still ongoing.
 
 **Links:** [AO3](https://archiveofourown.org/works/6688336/)
+
 ***
 
 ## The Dollmaker's Daughter
@@ -66,6 +70,7 @@
 **Recommender's note:** This is very fluffy and feel-good romance storytelling of a type I don't usually go for, but it's so well written that it's top-tier anyway. A classic.
 
 **Links:** [AO3](https://archiveofourown.org/series/200535/)
+
 ***
 
 ## Viridescent
@@ -87,6 +92,7 @@
 **Recommender's note:** BNHA reimagined as an intense character drama. One of the handful of fics that keep me invested in this fandom.
 
 **Links:** [AO3](https://archiveofourown.org/works/12823773)
+
 ***
 
 ## Shattered Decade
@@ -108,6 +114,7 @@
 **Recommender's note:** Undertale Yellow fix-it fic / action romance reimagining. The tagline "Hot Lead & Soft Fluff" says more than I could about it. Honestly, it reads like a shonen anime.
 
 **Links:** [AO3](https://archiveofourown.org/works/66316261)
+
 ***
 
 ## Persephone's Waltz
@@ -129,6 +136,7 @@
 **Recommender's note:** Ever wish PMMM was even angstier? This one's a classic. Slightly NSFW.
 
 **Links:** [AO3](https://archiveofourown.org/works/577310/)
+
 ***
 
 ## A Student Out Of Time
@@ -150,6 +158,7 @@
 **Recommender's note:** *Mod's main account isn't listed anywhere. Extremely long Peggy Sue/fix-it AU for technically Danganronpa 3, but actually the entire franchise. My personal idea for what if Danganronpa was good.
 
 **Links:** [Tumblr](https://a-student-out-of-time.tumblr.com/tagged/DR/chrono)
+
 ***
 
 ## Sburb Done Quick
@@ -171,6 +180,7 @@
 **Recommender's note:** Exactly what it says on the tin. As the title suggests, it's pretty short.
 
 **Links:** [MSPFA](https://mspfa.com/?s=36946&p=1)
+
 ***
 
 ## Ask Frisk and Company
@@ -192,6 +202,7 @@
 **Recommender's note:** A very feel-good everyone-gets-a-happy-ending post canon fic, and the best to do it for Undertale, at least in my opinion.
 
 **Links:** [Tumblr](https://askfriskandcompany.tumblr.com/tagged/askfriskandcompanyupdate/chrono)
+
 ***
 
 ## The Crow Strider AU
@@ -213,6 +224,7 @@
 **Recommender's note:** Homestuck canon divergence and fix-it fic. Extremely good if you like that sort of thing. Almost 5000 pages long, but it goes way faster than canon because the text is on the panel instead of in chatlogs.
 
 **Links:** [MSPFA](https://mspfa.com/?s=44153&p=1)
+
 ***
 
 ## Double Agent Vader
@@ -236,6 +248,7 @@
 **Links:**
 - [AO3](https://archiveofourown.org/series/286908/)
 - [Tumblr (apocrypha)](https://fialleril.tumblr.com/tagged/double-agent-anakin/chrono)
+
 ***
 
 ## Spider-Rune
@@ -257,9 +270,11 @@
 **Recommender's note:** Noelle and Kris get to be spider-people. It's really as simple as that. Excellent drama, the characterization of Noelle, Kris, Dess, Asriel, Gaster, and some other spoilery characters is extremely well-done.
 
 **Links:** [AO3](https://archiveofourown.org/series/4147837)
+
 ***
 
 # in-house fanfiction reccomendations
+
 ***
 
 ## Noelle Ate the Fucking Weed Brownies
@@ -279,7 +294,9 @@
 **Author's note:** Somehow my magnum opus. More or less exactly what it says on the tin. I wrote this out of spite after I got an anonymous death threat for daring to write Kriselle at all. Slightly NSFW.
 
 **Links:** [AO3](https://archiveofourown.org/works/67230658)
+
 ***
+
 ## confession time? here's what i got...
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -297,4 +314,5 @@
 **Author's note:** This is a one-shot I wrote for a contest. Came out a lot angstier than I'd originally intended, but I think it says a lot more that way.
 
 **Links:** [AO3](https://archiveofourown.org/works/72729021)
+
 ***
