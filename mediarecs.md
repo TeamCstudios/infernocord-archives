@@ -1,5 +1,6 @@
 # media recommendations
 [back](index)
+***
 
 ## Homestuck
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -14,6 +15,7 @@
 
 **Links:** [Homestuck.com](https://homestuck.com)
 ***
+
 ## Worm
 ![Rating: NSFW](assets/ratings/rating2.png)
 
@@ -27,6 +29,7 @@
 
 **Links:** [Worm on WordPress](https://parahumans.wordpress.com/)
 ***
+
 ## Psycholonials
 
 ![Rating: NSFW](assets/ratings/rating2.png)

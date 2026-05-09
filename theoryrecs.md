@@ -1,5 +1,6 @@
 # theory, meta, and analysis recommendations
 [back](index)
+***
 
 ## Ralsei Inferno Theory
 
@@ -17,6 +18,7 @@
 - [Deltarune Unofficial Message Boards Thread](https://deltaruneboards.net/index.php?showtopic=659)
 - [Tumblr version](https://mrjocrafter.tumblr.com/post/804659090871681024/the-ralsei-inferno-theory)
 ***
+
 ## Krissociation Meta
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -39,6 +41,7 @@
 - [Tumblr posts tagged #krissociation meta by abyssalmemorial, chronological](https://abyssalmemorial.tumblr.com/tagged/krissociation%20meta/chrono/)
 - [Deltarune Unofficial Message Boards Thread](https://deltaruneboards.net/index.php?showtopic=75)
 ***
+
 ## the-wertsearch
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -53,6 +56,7 @@
 
 **Links:** [the-wertsearch on Tumblr](ttps://thewertsearch.tumblr.com/tagged/full%20liveblog/chrono/)
 ***
+
 ## Toby Fox's Tumblr Tunes
 
 ![Rating: SFW](assets/ratings/rating1.png)

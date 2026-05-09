@@ -1,8 +1,10 @@
 # fanfiction recommendations
 [back](index)
 ***
+
 # out-of-house fanfiction reccomendations
 ***
+
 ## War Machines
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -23,6 +25,7 @@
 
 **Links:** [AO3](https://archiveofourown.org/works/54312247/)
 ***
+
 ## The Erosion of the Spirit
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -43,6 +46,7 @@
 
 **Links:** [AO3](https://archiveofourown.org/works/6688336/)
 ***
+
 ## The Dollmaker's Daughter
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -63,6 +67,7 @@
 
 **Links:** [AO3](https://archiveofourown.org/series/200535/)
 ***
+
 ## Viridescent
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -83,6 +88,7 @@
 
 **Links:** [AO3](https://archiveofourown.org/works/12823773)
 ***
+
 ## Shattered Decade
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -103,6 +109,7 @@
 
 **Links:** [AO3](https://archiveofourown.org/works/66316261)
 ***
+
 ## Persephone's Waltz
 
 ![Rating: NSFW](assets/ratings/rating2.png)
@@ -123,6 +130,7 @@
 
 **Links:** [AO3](https://archiveofourown.org/works/577310/)
 ***
+
 ## A Student Out Of Time
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -143,6 +151,7 @@
 
 **Links:** [Tumblr](https://a-student-out-of-time.tumblr.com/tagged/DR/chrono)
 ***
+
 ## Sburb Done Quick
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -163,6 +172,7 @@
 
 **Links:** [MSPFA](https://mspfa.com/?s=36946&p=1)
 ***
+
 ## Ask Frisk and Company
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -183,6 +193,7 @@
 
 **Links:** [Tumblr](https://askfriskandcompany.tumblr.com/tagged/askfriskandcompanyupdate/chrono)
 ***
+
 ## The Crow Strider AU
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -203,6 +214,7 @@
 
 **Links:** [MSPFA](https://mspfa.com/?s=44153&p=1)
 ***
+
 ## Double Agent Vader
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -225,6 +237,7 @@
 - [AO3](https://archiveofourown.org/series/286908/)
 - [Tumblr (apocrypha)](https://fialleril.tumblr.com/tagged/double-agent-anakin/chrono)
 ***
+
 ## Spider-Rune
 
 ![Rating: SFW](assets/ratings/rating1.png)
@@ -245,8 +258,10 @@
 
 **Links:** [AO3](https://archiveofourown.org/series/4147837)
 ***
+
 # in-house fanfiction reccomendations
 ***
+
 ## Noelle Ate the Fucking Weed Brownies
 
 ![Rating: NSFW](assets/ratings/rating2.png)

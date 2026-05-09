@@ -10,6 +10,7 @@ Markdown mirror of the Infernocord Archives.
 ***
 ## video recommendations
 *Currently under construction*
+
 ***
 ### rating system
 ![Rating: Unrated](assets/ratings/rating0.png)
