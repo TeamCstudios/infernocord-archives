@@ -5,7 +5,7 @@
 
 ## War Machines
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** War Machines
 
@@ -25,7 +25,7 @@
 
 ## The Erosion of the Spirit
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** The Erosion of the Spirit
 
@@ -45,7 +45,7 @@
 
 ## The Dollmaker's Daughter
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** The Dollmaker's Daughter
 
@@ -65,7 +65,7 @@
 
 ## Viridescent
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** Viridescent
 
@@ -85,7 +85,7 @@
 
 ## Shattered Decade
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** Shattered Decade
 
@@ -105,7 +105,7 @@
 
 ## Persephone's Waltz
 
-![Rating: NSFW](/assets/rating2.png)
+![Rating: NSFW](../assets/rating2.png)
 
 **Title:** Persephone's Waltz
 
@@ -125,7 +125,7 @@
 
 ## A Student Out Of Time
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** A Student Out Of Time
 
@@ -145,7 +145,7 @@
 
 ## Sburb Done Quick
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** Sburb Done Quick
 
@@ -165,7 +165,7 @@
 
 ## Ask Frisk and Company
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** Ask Frisk and Company
 
@@ -185,7 +185,7 @@
 
 ## The Crow Strider AU
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** The Crow Strider AU
 
@@ -205,7 +205,7 @@
 
 ## Double Agent Vader
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** Double Agent Vader (series)
 
@@ -227,7 +227,7 @@
 
 ## Spider-Rune
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** Spider-Rune (series)
 
@@ -249,7 +249,7 @@
 
 ## Noelle Ate the Fucking Weed Brownies
 
-![Rating: NSFW](/assets/rating2.png)
+![Rating: NSFW](../assets/rating2.png)
 
 **Title:** Noelle Ate the Fucking Weed Brownies
 
@@ -267,7 +267,7 @@
 
 ## confession time? here's what i got...
 
-![Rating: SFW](/assets/rating1.png)
+![Rating: SFW](../assets/rating1.png)
 
 **Title:** confession time? here's what i got...
 
