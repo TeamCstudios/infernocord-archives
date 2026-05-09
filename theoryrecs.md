@@ -3,7 +3,7 @@
 
 ## Ralsei Inferno Theory
 
-![Rating: SFW](assets/rating1.png)
+![Rating: SFW](/assets/rating1.png)
 
 **Title:** The Ralsei Inferno Theory
 
@@ -19,7 +19,7 @@
 
 ## Krissociation Meta
 
-![Rating: SFW](assets/rating1.png)
+![Rating: SFW](/assets/rating1.png)
 
 **Title:** Krissociation Meta / Kris Preservation Society
 
@@ -41,7 +41,7 @@
 
 ## the-wertsearch
 
-![Rating: SFW](assets/rating1.png)
+![Rating: SFW](/assets/rating1.png)
 
 **Title:** Sally's Homestuck Liveblog
 
@@ -55,7 +55,7 @@
 
 ## Toby Fox's Tumblr Tunes
 
-![Rating: SFW](assets/rating1.png)
+![Rating: SFW](/assets/rating1.png)
 
 **Title:** Toby Fox's Tumblr Tunes
 

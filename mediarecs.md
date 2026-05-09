@@ -2,7 +2,7 @@
 [back](index)
 
 ## Homestuck
-![Rating: SFW](assets/rating1.png)
+![Rating: SFW](/assets/rating1.png)
 
 **Title:** Homestuck
 
@@ -15,7 +15,7 @@
 **Links:** [Homestuck.com](https://homestuck.com)
 
 ## Worm
-![Rating: NSFW](assets/rating2.png)
+![Rating: NSFW](/assets/rating2.png)
 
 **Title:** Worm (Parahumans #1)
 
@@ -29,7 +29,7 @@
 
 ## Psycholonials
 
-![Rating: NSFW](assets/rating2.png)
+![Rating: NSFW](/assets/rating2.png)
 
 **Title:** Psycholonials
 
