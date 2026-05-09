@@ -13,7 +13,7 @@ Markdown mirror of the Infernocord Archives.
 *Currently under construction*
 
 ### rating system
-![Rating: Unrated](../assets/rating0.png)
-![Rating: SFW](../assets/rating1.png)
-![Rating: NSFW](../assets/rating2.png)
-![Rating: DD;DNE](../assets/rating3.png)
+![Rating: Unrated](../assets/ratings/rating0.png)
+![Rating: SFW](../assets/ratings/rating1.png)
+![Rating: NSFW](../assets/ratings/rating2.png)
+![Rating: DD;DNE](../assets/ratings/rating3.png)
